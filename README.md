@@ -10,7 +10,7 @@ I'm a student from SMK Negeri 10 Semarang
 
 
 ## Socials
-[Instagram](@https://www.instagram.com/torinoxdig/?hl=en)
+[Instagram](https://www.instagram.com/torinoxdig/?hl=en).
 
 
 ## My Stats
