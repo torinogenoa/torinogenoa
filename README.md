@@ -1,5 +1,5 @@
 # Hi, I'm Torino👋
-torino-banner.png
+<img width="1700" height="460" alt="torino-banner" src="https://github.com/user-attachments/assets/e531685a-a27a-4acd-8814-31c8364504e7" />
 
 ## About Me
 I'm a student from SMK Negeri 10 Semarang
