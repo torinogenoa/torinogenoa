@@ -1,19 +1,10 @@
-# Hi, I'm Torino👋
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/78d0952a-5322-4ba0-88d7-d3e69a3169bd" />
+<h1 align="center">Hi 👋, I'm Torino</h1>
+<h3 align="center">A tech student who is interested with Cybersecurity</h3>
 
-## About Me
-I'm a student from SMK Negeri 10 Semarang, i do OSINT and Bug Hunting sometimes.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/torino.genoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="torino.genoa" height="30" width="40" /></a>
+</p>
 
-
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,figma,linux&theme=light)](https://skillicons.dev)
-
-
-## Socials
-[Instagram](https://www.instagram.com/torinoxdig/?hl=en).
-
-
-## My Stats
-![torinogenoa's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=torinogenoa&theme=dark&chart=bars)
-
-![torinogenoa's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=torinogenoa&type=languages&theme=radical&chart=bars)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
