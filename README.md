@@ -31,12 +31,10 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=torinogenoa&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/torinogenoa/torinogenoa/output/snake.svg" alt="Snake animation" />
+[![](https://visitcount.itsvg.in/api?id=torinogenoa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
