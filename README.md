@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHgizBZiGHtoAs6D91prhTfPa1xT9GI5ClLg&s"  />
+<img align="right" height="150" src="https://tenor.com/search/hacker-man-gifs"  />
 
 ###
 
