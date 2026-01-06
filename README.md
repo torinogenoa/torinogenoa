@@ -6,7 +6,7 @@ I'm a student from SMK Negeri 10 Semarang, i do OSINT and Bug Hunting sometimes.
 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,figma,hackthebox&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,figma,linux,kalilinux&theme=light)](https://skillicons.dev)
 
 
 ## Socials
