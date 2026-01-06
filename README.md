@@ -2,7 +2,7 @@
 <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/78d0952a-5322-4ba0-88d7-d3e69a3169bd" />
 
 ## About Me
-I'm a student from SMK Negeri 10 Semarang
+I'm a student from SMK Negeri 10 Semarang, i do OSINT and Bug Hunting sometimes.
 
 
 ## Skills
