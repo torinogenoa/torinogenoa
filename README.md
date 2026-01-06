@@ -15,3 +15,5 @@ I'm a student from SMK Negeri 10 Semarang
 
 ## My Stats
 ![torinogenoa's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=torinogenoa&theme=dark&chart=bars)
+
+![torinogenoa's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=torinogenoa&type=languages&theme=radical&chart=bars)
