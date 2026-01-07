@@ -2,6 +2,8 @@
 
 <h1 align="left">Hi 👋! I'm Torino</h1>
 
+<h3 align="left">Just a random tech student who is interested with Cybersecurity :3 </h3>
+
 ###
 
 <img align="right" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVpcXFldWRmanRqc3ByMmxhc2xvNW40anlzZHdnMGpwODc5cm5rMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/200.webp"  />
