@@ -1,6 +1,6 @@
 <img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/aa073eeb-4779-4f32-8304-5d312276b1e2" />
 
-<h2 align="left">Hi 👋! I'm Torino</h2>
+<h1 align="left">Hi 👋! I'm Torino</h1>
 
 ###
 
