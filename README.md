@@ -1,3 +1,5 @@
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/1efde68d-3f3f-4288-8825-5713a8ae11e4" />
+
 <h2 align="left">Hi 👋! I'm Torino</h2>
 
 ###
@@ -39,7 +41,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/torinogenoa/torinogenoa/output/snake.svg" alt="Snake animation" />
 
 ###
