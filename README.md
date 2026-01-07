@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋! I'm Torino</h1>
 
-<h3 align="left">Just a random tech student who is interested with Cybersecurity :3 </h3>
+<h3 align="left">just a random tech student who is interested with Cybersecurity :3 </h3>
 
 ###
 
